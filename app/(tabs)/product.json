@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Shinai",
+        "description": "High quality bamboo shinai for Kendo practice.",
+        "price": 5000,
+        "image":"@/assets/images/ShinaiLogo.png"
+    },
+    {
+        "id": 2,
+        "name": "Bogu Set",
+        "description": "Complete Kendo bogu set.",
+        "price": 20000,
+        "image":"@/assets/images/1MenLogo.png"
+    }
+]
